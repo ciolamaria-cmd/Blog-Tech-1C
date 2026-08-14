@@ -1,6 +1,6 @@
 header {
-    background-color: rgb(86, 27, 141); /* cor de fundo */
-    color: antiquewhite; /* cor da fonte */
+    background-color: rgb(0, 255, 191); /* cor de fundo */
+    color: rgb(204, 191, 174); /* cor da fonte */
     text-align: center; /* centraliza o texto horizontalmente */
     max-width: 800px; /* define a largura máxima que o elemento pode ter */
     margin: 0 auto; /* centraliza o bloco inteiro na tela */
@@ -13,7 +13,7 @@ h1{
 
 main {
     background-color: aliceblue;
-    color: #c249cf;
+    color: #00a043;
     max-width: 800px;
     margin: 0 auto;
     padding: 16px;
@@ -23,7 +23,7 @@ main {
 img{
     width: 150px; /* define a largura fixa da imagem */
     height: 150px; /* define a largura fixa da imagem */
-    border: 2px solid #17048f; /* adiciona uma borda sólida de 2px na cor azul/roxa */
+    border: 2px solid #103002; /* adiciona uma borda sólida de 2px na cor azul/roxa */
     display: block; /* transforma a imagem em um bloco para aceitar margens verticais e quebra de linha */
     margin: 0 auto; /* centraliza a imagem horizontalmente na tela */
 }
