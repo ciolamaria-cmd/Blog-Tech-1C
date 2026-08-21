@@ -35,7 +35,7 @@ article {
 img{
     width: 150px; /* define a largura fixa da imagem */
     height: 150px; /* define a largura fixa da imagem */
-    border: 2px solid #27214d; /* adiciona uma borda sólida de 2px na cor azul/roxa */
+    border: 2px solid #000000; /* adiciona uma borda sólida de 2px na cor azul/roxa */
     display: block; /* transforma a imagem em um bloco para aceitar margens verticais e quebra de linha */
     margin: 0 auto; /* centraliza a imagem horizontalmente na tela */
     align-self: center;
@@ -50,7 +50,7 @@ img{
 }
 
 footer {
-    background-color: #6723a7; /* mesma cor escura do header para combinar */
+    background-color: #fffc54; /* mesma cor escura do header para combinar */
     color: antiquewhite;      /* cor da fonte branca para dar contraste e leitura */
     text-align: center;        /* centraliza o texto horizontalmente */
     max-width: 800px;         /* mantém o msm alinhamento do header e do main */
