@@ -8,7 +8,7 @@ body {
 
 header {
     background-color: rgb(253, 231, 30); /* cor de fundo */
-    color: antiquewhite; /* cor da fonte */
+    color: rgb(0, 0, 0); /* cor da fonte */
     text-align: center; /* centraliza o texto horizontalmente */
     max-width: 800px; /* define a largura máxima que o elemento pode ter */
     margin: 0 auto; /* centraliza o bloco inteiro na tela */
